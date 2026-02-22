@@ -1,4 +1,4 @@
-# Weather Phenomena Image Classification using SqueezeNet (Transfer Learning & Fine-Tuning)
+# 🌧️ Weather Phenomena Image Classification using SqueezeNet (Transfer Learning & Fine-Tuning)
 
 ## 📌 Project Description
 
