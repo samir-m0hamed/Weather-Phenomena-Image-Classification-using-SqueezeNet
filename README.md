@@ -117,8 +117,7 @@ Model performance is evaluated using:
 * Matplotlib
 * Seaborn
 * Transfer Learning via SqueezeNet
-* Fine Tuning
-* ٍضعع
+
 ---
 
 ## 👨‍💻 Author
