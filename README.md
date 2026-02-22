@@ -1,4 +1,4 @@
-# 🌦 Weather Phenomena Image Classification using SqueezeNet (Transfer Learning & Fine-Tuning)
+# Weather Phenomena Image Classification using SqueezeNet (Transfer Learning & Fine-Tuning)
 
 ## 📌 Project Description
 
@@ -123,7 +123,7 @@ Model performance is evaluated using:
 
 ## 👨‍💻 Author
 
-Samir Mohamed Samir
-AI Engineer | Machine Learning & Computer Vision
+* **Samir Mohamed Samir**
+* **AI Engineer | Machine Learning & Computer Vision**
 
 ---
